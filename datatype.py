@@ -176,10 +176,10 @@
 # print(str1.split('o',1))
 # output=['I l', 've python']
 # -------------------------------------------------------------------------------------------------
-
+# Method in string
 # Join
-# li=['Anam','Sayyed','Bhopal']
-# print('*'.join(li).split('p'))
+li=['Anam','Sayyed','Bhopal']
+print('*'.join(li))
 # # output=['Anam*Sayyed*Bho', 'al']
 # x=','.join(li)
 # output=Anam,Sayyed,Bhopal--------single obj. output
