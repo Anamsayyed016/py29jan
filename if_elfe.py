@@ -26,3 +26,8 @@ elif(y==z):
 
 elif(z==x):
     print(f"{z} and {x} are equal")
+
+else:
+    print("please enter valid number")
+
+    
