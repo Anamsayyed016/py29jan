@@ -1,4 +1,5 @@
-# py call by refrence
+# py call by refrence-------------
+
 # x=10
 # y=20
 # print(id(x))
@@ -6,7 +7,8 @@
 # output-140709877253320
 # 140709877253640-memory location 
 
-# py call by obj refrence
+# py call by obj refrence---------
+
 # types of 1-mutable, 2-immutable
 
 # integer
