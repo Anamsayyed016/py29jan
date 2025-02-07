@@ -15,17 +15,17 @@
 
 # Continue:---------------------------
 
-# n = int(input("enter your no :"))
-# i = 1
-# while i < n:
-#     # Compare i with 6
-#     if i == 6: 
-#         i=i+1
-#         # print(i)
-#         continue
-#     print(i)
-#     i = i + 1
-# print("hello")
+n = int(input("enter your no :"))
+i = 1
+while i < n:
+    # Compare i with 6
+    if i == 6: 
+        i=i+1
+        # print(i)
+        continue
+    print(i)
+    i = i + 1
+print("hello")
 # output  =   1
             # 2
             # 3
