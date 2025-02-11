@@ -1,4 +1,4 @@
-# breal=--  exit from loop
+# breaK=--  exit from loop
 # continue---- skip current itreation
 # pass ---- skip current block
 

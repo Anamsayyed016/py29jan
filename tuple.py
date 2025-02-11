@@ -47,4 +47,4 @@ print(l1.count(10))
 # INDEX
 print(l1.index(10))
 # output=1
-print(l1[-4])
+print(l1[-1])
