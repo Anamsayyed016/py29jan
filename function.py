@@ -61,7 +61,7 @@
 
 # ---------------------------------------------------------------------------------
 
-# Variable Length Argument(* args[single star---all argument is not fix and asign with any name])
+# Variable Length Argument(* args----[for pas tuple][single star---all argument is not fix and asign with any name])
 
 # def add (*n):
 #     print(n)
@@ -84,3 +84,33 @@
 # p=eval(input("Enter any tuple :"))
 # n=add(p)
 # print(n)
+
+# def add(*n):
+#         sum=0
+#         for i in n:
+#                 sum=sum+i
+#         return sum
+#         # print(n)
+#         # print(type)
+
+# x=eval(input("Enter any value:"))
+# y=add(*x)
+# print(y)
+
+
+# ---------------------------------------------------------------------------------------
+# (**n(kwarg))
+# variable keyword argument:-
+
+def show_my_detail(**n):
+        
+        # for k,v in n.items():
+        #         print(f' My {k} is {v}')
+
+        print(n)
+        print(type(n))
+
+x=eval(input("Enter the value:"))
+show_my_detail(**x)
+# show_my_detail()
+# show_my_detail(name='Anam',age=27,qualifi='MBA')
