@@ -36,7 +36,7 @@
 
 #Bitwise opreator-&,|,~,^,<<,>>
 # number system-collection of digits
-# ..............&oprrator--------------
+# ..............&opreator--------------
 # x=10
 # y=20
 # print(x&y) 
